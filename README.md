@@ -1,4 +1,4 @@
-# Correcting Moisture and Density (MAD) and Formation Factor (FF) using Varied Salinity Values in Offshore Freshened Groundwater Systems #
+# Correcting Moisture and Density (MAD) and Formation Factor (FF) Measurements using Varied Salinity Values in an Offshore Freshened Groundwater System #
 Author: Maddox Chastain
 
 ### Introduction ###
